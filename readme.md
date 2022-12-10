@@ -473,3 +473,6 @@ global_explanations["pdp"].ipython_plot(class_names=class_names)
 print("ALE results:")
 global_explanations["ale"].ipython_plot(class_names=class_names)
 ```
+
+https://colab.research.google.com/github/kweinmeister/notebooks/blob/master/tensorflow-shap-college-debt.ipynb
+
